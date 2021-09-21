@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=borislavgol&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borislavgol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
