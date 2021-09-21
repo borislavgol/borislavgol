@@ -1,7 +1,5 @@
+⚡LeetCode⚡
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=borislavgol&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borislavgol&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **borislavgol/borislavgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
