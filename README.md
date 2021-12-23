@@ -1,7 +1,7 @@
-⚡LeetCode⚡
+<!--⚡LeetCode⚡
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=borislavgol&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-<!--
+
 **borislavgol/borislavgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
